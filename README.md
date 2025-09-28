@@ -1,4 +1,4 @@
-<img src="./assets/spiderman.webp" alt="banner">
+<img src="./assets/github-header-banner.png" alt="banner">
 
 <p align="center">
   <a href="https://github.com/dev-arham">
