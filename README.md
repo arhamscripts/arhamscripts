@@ -1,5 +1,3 @@
-<img src="./assets/github-header-banner-new.png" alt="banner">
-
 <p align="center">
   <!-- <a href="https://github.com/dev-arham">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=435&lines=Arham+Mustafa" alt="Arham Mustafa" /></a> -->
