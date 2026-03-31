@@ -1,7 +1,7 @@
 <p align="center">
-  <!-- <a href="https://github.com/dev-arham">
+  <!-- <a href="https://github.com/arhamscripts">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=435&lines=Arham+Mustafa" alt="Arham Mustafa" /></a> -->
-  <a href="https://github.com/dev-arham">
+  <a href="https://github.com/arhamscripts">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&width=435&lines=I'm+Computer+Scientist;Web+Developer;&font=Fira%20Code&center=true&width=600&height=45&color=ff3d3d&vCenter=true&pause=800&size=28" /></a>
 </p>
 
@@ -13,7 +13,7 @@
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=dev-arham&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dev-arham&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-arham&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=arhamscripts&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=arhamscripts&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arhamscripts&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
