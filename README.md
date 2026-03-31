@@ -59,7 +59,7 @@ I enjoy working on:
 
 ## Let's Connect
 
-- Instagram: [@arhamscripts](https://instagram.com/onlymearham)
+- Instagram: [@onlymearham](https://instagram.com/onlymearham)
 - LinkedIn: [Arham Mustafa](https://linkedin.com/in/arhamcodes)
 - Email: arhamcodes@outlook.com
 
