@@ -36,7 +36,7 @@ I enjoy working on:
 `PostgreSQL` `MySQL` `MongoDB` `Firebase` `Supabase`
 
 ### ORM / Tools
-`Drizzle ORM` `PNPM` `` `Git` `GitHub` `Postman` `Vercel` `Figma` `VS Code` `Docker` `Linux`
+`Drizzle ORM` `PNPM` `Git` `GitHub` `Postman` `Vercel` `Figma` `VS Code` `Docker` `Linux`
 
 ---
 
