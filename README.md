@@ -49,7 +49,7 @@ I enjoy working on:
 
 ---
 
-## ✿ 📈 GitHub Analytics
+## ✿ GitHub Analytics
 
 <p align="center">
   <img src="https://githubcard.com/arhamscripts.svg?d=HU3DHhal" />
