@@ -1,11 +1,7 @@
 <p align="center">
-  <!-- <a href="https://github.com/arhamscripts">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=435&lines=Arham+Mustafa" alt="Arham Mustafa" /></a> -->
   <a href="https://github.com/arhamscripts">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&width=435&lines=I'm+Computer+Scientist;Full+Stack+Developer;Mobile+App+Developer;&font=Fira%20Code&center=true&width=600&height=45&color=ff3d3d&vCenter=true&pause=800&size=28" /></a>
 </p>
-
----
 
 ## ✿ Who I Am
 
@@ -59,12 +55,12 @@ I enjoy working on:
 
 ## ✿ Let's Connect
 
-- Instagram: [@onlymearham](https://instagram.com/onlymearham)
+- Instagram: [@ylxgb](https://instagram.com/ylxgb)
 - LinkedIn: [Arham Mustafa](https://linkedin.com/in/arhamcodes)
-- Email: arhamcodes@outlook.com
+- Email: [arhammustafa179@gmail.com](mailto:arhammustafa179@gmail.com)
 
 ---
 
-## Personal Note
+## ✿ Personal Note
 
 I’m interested in building software that is not just visually good, but also **useful, scalable, and practical for real businesses**.
