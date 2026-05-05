@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 Who I Am
+## ✿ Who I Am
 
 I’m a developer focused on building **real-world software products**, from **business management systems** to **modern mobile apps** and **full-stack web platforms**.
 
@@ -21,7 +21,7 @@ I enjoy working on:
 
 ---
 
-## ⚙️ Technologies I Work With
+## ✿ Technologies I Work With
 
 ### Languages
 `JavaScript` `TypeScript` `Dart` `Python` `Bash` `SQL`
@@ -40,7 +40,7 @@ I enjoy working on:
 
 ---
 
-## Current Focus
+## ✿ Current Focus
 
 - Building **production-ready web & mobile apps**
 - Improving **backend architecture and database design**
@@ -49,7 +49,7 @@ I enjoy working on:
 
 ---
 
-## 📈 GitHub Analytics
+## ✿ 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://githubcard.com/arhamscripts.svg?d=HU3DHhal" />
@@ -57,7 +57,7 @@ I enjoy working on:
 
 ---
 
-## Let's Connect
+## ✿ Let's Connect
 
 - Instagram: [@onlymearham](https://instagram.com/onlymearham)
 - LinkedIn: [Arham Mustafa](https://linkedin.com/in/arhamcodes)
